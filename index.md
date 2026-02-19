@@ -6,16 +6,24 @@ title: Mon CV
 # Tidiane Michel
 Étudiant en Licence Informatique
 
+
+
+
 ---
 
-## 📍 Coordonnées
+
+##  Coordonnées
 
 - 📧 Email : tidi...@email.com  
 - 📱 Téléphone : 06 XX XX XX XX  
 - 🌐 GitHub : https://github.com/Tidiane31225  
 - 📍 Localisation : Toulouse, France  
 
+
+
+
 ---
+
 
 ## 🎓 Formation
 
@@ -32,9 +40,13 @@ title: Mon CV
 - Méthodologie de développement logiciel
 - Projets universitaires en équipe
 
+
+
+
 ---
 
-## 💻 Compétences techniques
+
+##  Compétences techniques
 
 - **Langages :** Python, Java, C  
 - **Algorithmique & structures de données**
@@ -43,9 +55,13 @@ title: Mon CV
 - **Outils :** Git, GitHub
 - **Environnement :** Linux, Windows
 
+
+
+
 ---
 
-## 🧠 Compétences transversales
+
+##  Compétences transversales
 
 - Rigueur et raisonnement logique
 - Capacité d’analyse et de résolution de problèmes
@@ -53,9 +69,13 @@ title: Mon CV
 - Autonomie et organisation
 - Capacité d’apprentissage rapide
 
+
+
+
 ---
 
-## 🏗️ Expériences professionnelles (hors informatique)
+
+##  Expériences professionnelles (hors informatique)
 
 **Manutentionnaire – Intérim**  
 2022 – 2026 (missions ponctuelles)
@@ -66,15 +86,23 @@ title: Mon CV
 - Adaptabilité à des contextes de travail variés
 - Capacité à concilier activité professionnelle et études universitaires
 
+
+
+
 ---
 
-## 🎯 Objectif académique
+
+##  Objectif académique
 
 Intégrer un **Master Informatique** afin d’approfondir mes compétences théoriques et pratiques, et me spécialiser dans un domaine tel que le **développement logiciel**, les **données** ou les **systèmes**.
 
+
+
+
 ---
 
-## 🌍 Langues
+
+##  Langues
 
 - Français : langue maternelle  
 - Anglais : niveau universitaire (lecture de documentation technique)
