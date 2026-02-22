@@ -1,11 +1,10 @@
 
 ---
-layout: page
 title: Formation
 permalink: /formation/
 ---
 
-
+[Accueil](/) |[Formation](/formation/)
 
 
 # Tidiane Michel

@@ -3,7 +3,7 @@ layout: default
 title: Mon CV
 ---
 
-[Accueil](/) | [🎓 Formation](/formation/)
+
 
 # Tidiane Michel
 Étudiant en Licence Informatique
