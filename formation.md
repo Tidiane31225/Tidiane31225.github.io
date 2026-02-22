@@ -5,9 +5,6 @@ title: Formation
 permalink: /formation/
 ---
 
-
-
-
 # Tidiane Michel
 
 
