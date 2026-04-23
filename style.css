@@ -59,9 +59,6 @@ body {
   display: flex;
 }
 
-
-
-
 /* ===== DROITE ===== */
 .right {
   width: 65%;
@@ -94,7 +91,6 @@ section h2 {
   margin-bottom: 0;
 }
 
-
 /* ===== CONTACT ===== */
 .icon-list {
   list-style: none;
@@ -117,7 +113,6 @@ section h2 {
   flex-shrink: 0;
 }
 
-
 .website a {
   color: #000;
   text-decoration: none;
@@ -127,7 +122,6 @@ section h2 {
 .website a:hover {
   text-decoration: underline;
 }
-
 
 /* ===== COMPETENCES ===== */
 .skills-list {
@@ -168,7 +162,6 @@ section h2 {
   padding-bottom: 25px; 
 }
 
-
 .timeline .item:not(:last-child)::before {
   content: "";
   position: absolute;
@@ -203,7 +196,6 @@ li {
   margin-bottom: 6px;
 }
 
-
 .project-item {
   margin-bottom: 20px;
 }
@@ -220,7 +212,3 @@ li {
   margin: 0;
   color: #333;
 }
-
-
-
-
