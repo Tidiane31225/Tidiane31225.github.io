@@ -47,6 +47,10 @@ body {
   line-height: 1.4;
 }
 
+.subtitle {
+  text-align: justify;
+}
+
 /* ===== SEPARATEUR POINTILLES ===== */
 .separator {
   border-top: 4px dashed #000;
@@ -84,7 +88,7 @@ section h2 {
 }
 
 .left section {
-  margin-bottom: 110px;
+  margin-bottom: 45px;
 }
 
 .left section:last-child {
@@ -132,16 +136,16 @@ section h2 {
 
 .skill {
   display: flex;
-  align-items: flex-start; 
+  align-items: center; 
   gap: 15px;               
-  margin-bottom: 20px;
+  margin-bottom: 14px;
 }
 
 .skill-icon {
   width: 28px;
   height: 28px;
   flex-shrink: 0;
-  margin-top: 2px; 
+  margin-top: 0; 
 }
 
 .skill strong {
